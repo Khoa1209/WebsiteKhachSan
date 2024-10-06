@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QuanLyKhachSanVer2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\WEBSITE.csproj|d:\\quanlykhachsanver2\\quanlykhachsan\\views\\publicmodules\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\WEBSITE.csproj|solutionrelative:quanlykhachsan\\views\\publicmodules\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\WEBSITE.csproj|d:\\quanlykhachsanver2\\quanlykhachsan\\views\\shared\\_layoutpublic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\WEBSITE.csproj|solutionrelative:quanlykhachsan\\views\\shared\\_layoutpublic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\WEBSITE.csproj|d:\\quanlykhachsanver2\\quanlykhachsan\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\WEBSITE.csproj|solutionrelative:quanlykhachsan\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\WEBSITE.csproj|d:\\quanlykhachsanver2\\quanlykhachsan\\views\\adminhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\WEBSITE.csproj|solutionrelative:quanlykhachsan\\views\\adminhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\WEBSITE.csproj|d:\\quanlykhachsanver2\\quanlykhachsan\\controllers\\admin\\adminauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\WEBSITE.csproj|solutionrelative:quanlykhachsan\\controllers\\admin\\adminauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\WEBSITE.csproj|d:\\quanlykhachsanver2\\quanlykhachsan\\controllers\\public\\publicauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\WEBSITE.csproj|solutionrelative:quanlykhachsan\\controllers\\public\\publicauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\WEBSITE.csproj|d:\\quanlykhachsanver2\\quanlykhachsan\\controllers\\admin\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\WEBSITE.csproj|solutionrelative:quanlykhachsan\\controllers\\admin\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\WEBSITE.csproj|d:\\quanlykhachsanver2\\quanlykhachsan\\controllers\\admin\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\WEBSITE.csproj|solutionrelative:quanlykhachsan\\controllers\\admin\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\WEBSITE.csproj|d:\\quanlykhachsanver2\\quanlykhachsan\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\WEBSITE.csproj|solutionrelative:quanlykhachsan\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\QuanLyKhachSan.csproj|D:\\QuanLyKhachSanVer2\\quanlykhachsan\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\QuanLyKhachSan.csproj|D:\\QuanLyKhachSanVer2\\quanlykhachsan\\controllers\\public\\publicroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA79D76C-BD15-4578-B3F4-5D579F66BBD7}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\controllers\\public\\publicroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Views\\PublicModules\\Footer.cshtml",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Views\\PublicModules\\Footer.cshtml",
+              "ToolTip": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Views\\PublicModules\\Footer.cshtml",
+              "RelativeToolTip": "QuanLyKhachSan\\Views\\PublicModules\\Footer.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T01:14:09.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutPublic.cshtml",
+              "DocumentMoniker": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Views\\Shared\\_LayoutPublic.cshtml",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Views\\Shared\\_LayoutPublic.cshtml",
+              "ToolTip": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Views\\Shared\\_LayoutPublic.cshtml",
+              "RelativeToolTip": "QuanLyKhachSan\\Views\\Shared\\_LayoutPublic.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T01:11:54.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "QuanLyKhachSan\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T01:06:26.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Views\\AdminHome\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Views\\AdminHome\\Index.cshtml",
+              "ToolTip": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Views\\AdminHome\\Index.cshtml",
+              "RelativeToolTip": "QuanLyKhachSan\\Views\\AdminHome\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T01:06:10.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminUserController.cs",
+              "DocumentMoniker": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Controllers\\Admin\\AdminUserController.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Controllers\\Admin\\AdminUserController.cs",
+              "ToolTip": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Controllers\\Admin\\AdminUserController.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Controllers\\Admin\\AdminUserController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T01:04:19.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Models\\Model1.edmx",
+              "ToolTip": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "QuanLyKhachSan\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-06T00:56:30.077Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PublicAuthenticationController.cs",
+              "DocumentMoniker": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Controllers\\Public\\PublicAuthenticationController.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Controllers\\Public\\PublicAuthenticationController.cs",
+              "ToolTip": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Controllers\\Public\\PublicAuthenticationController.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Controllers\\Public\\PublicAuthenticationController.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAAMMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T00:34:43.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminHomeController.cs",
+              "DocumentMoniker": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Controllers\\Admin\\AdminHomeController.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Controllers\\Admin\\AdminHomeController.cs",
+              "ToolTip": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Controllers\\Admin\\AdminHomeController.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Controllers\\Admin\\AdminHomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T00:32:21.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminAuthenticationController.cs",
+              "DocumentMoniker": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Controllers\\Admin\\AdminAuthenticationController.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Controllers\\Admin\\AdminAuthenticationController.cs",
+              "ToolTip": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Controllers\\Admin\\AdminAuthenticationController.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Controllers\\Admin\\AdminAuthenticationController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAtwA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T00:31:52.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PublicRoomController.cs",
+              "DocumentMoniker": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Controllers\\Public\\PublicRoomController.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Controllers\\Public\\PublicRoomController.cs",
+              "ToolTip": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Controllers\\Public\\PublicRoomController.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Controllers\\Public\\PublicRoomController.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAqwMwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T00:31:52.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Web.config",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Web.config",
+              "ToolTip": "D:\\QuanLyKhachSanVer2\\QuanLyKhachSan\\Web.config",
+              "RelativeToolTip": "QuanLyKhachSan\\Web.config",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAhwBcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-06T00:31:52.604Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
